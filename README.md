@@ -1,4 +1,4 @@
-# The Wapuu for Frankfurt am Main
+# Frapuu
 
 This [Wapuu](https://ja.wordpress.org/about-wp-ja/wapuu/) was originally created for [WordCamp Frankfurt 2016](https://frankfurt.wordcamp.org/2016/) by [Marijana Babic](www.studio-biro.de).
 
