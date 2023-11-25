@@ -6,7 +6,7 @@ Frapuu is a real Hesse and wraps around a so called Bembel, a hessian earthenwar
 
 Our Frapuu is cultivated and cosmopolitan and knows how to party, as is Frankfurt. We have to assume that Frapuu is a direct descendant of Goethe himself.
 
-This [Wapuu](http://jawordpressorg.github.io/wapuu/) was originally created for [WordCamp Frankfurt 2016](https://frankfurt.wordcamp.org/2016/) by [Marijana Babic](www.studio-biro.de).
+This [Wapuu](http://jawordpressorg.github.io/wapuu/) was originally created for [WordCamp Frankfurt 2016](https://frankfurt.wordcamp.org/2016/) by [Marijana Babic](https://www.studio-biro.de/).
 
 ## Origin story
 
